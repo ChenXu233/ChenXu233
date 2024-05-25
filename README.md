@@ -31,12 +31,20 @@
 <div align="center"> How to master Python better and how to build mods for Minecraft in Java </div>
 <div align="center"> 如何更好的掌握Python，以及如何用java为Minecraft制作模组 </div>
 <br> </br>
-
-<div align="center"> <h2> 😄 Pronouns:  </h2> </div>
-<div align="center"> 😄 怎么称呼我 </div>
+<div align="center"> <h2> 💬 You can call me …  </h2> </div>
+<div align="center"> 💬 怎么称呼我 </div>
 <br> </br>
 <div align="center"> You can call me ChenXu，and I go by Chenric</div>
 <div align="center"> 中文叫我晨煦就好 </div>
+<br> </br>
+<div align="center"> <h2> 😄 Pronouns:  </h2> </div>
+<div align="center"> 😄 代词 </div>
+<br> </br>
+<div align="center"> they/them </div>
+<div align="center"> 中文中可以使用：ta </div>
+<div align="center"> （注：中文由于没有多性别指向的词，但有 "ta" 这种网络语言用于指代性别未知的人） </div>
+<div align="center"> after a lifetime of being at war with my gender l've decided to embrace myself for who l am, inside and out... --Sam Smith </div>
+<div align="center"> 在与自己的性别斗争了一辈子之后，我决定从内到外地接受真实的自己。 --Sam Smith </div>
 <br> </br>
 
 <div align="center"> <h2> 📫 How to reach me:  </h2> </div>
