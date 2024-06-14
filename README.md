@@ -37,9 +37,9 @@
 <div align="center"> You can call me ChenXu，and I go by Chenric</div>
 <div align="center"> 中文叫我晨煦就好 </div>
 <br> </br>
-<div align="center"> <h2> 😄 Pronouns:  </h2> </div>
+<!-- <div align="center"> <h2> 😄 Pronouns:  </h2> </div>
 <div align="center"> 😄 代词 </div>
-<!-- <br> </br>
+<br> </br>
 <div align="center"> they/them </div>
 <div align="center"> 中文中可以使用：ta </div>
 <div align="center"> （注：中文由于没有多性别指向的词，但有 "ta" 这种网络语言用于指代性别未知的人） </div>
