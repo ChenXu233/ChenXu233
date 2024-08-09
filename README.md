@@ -33,7 +33,7 @@
 <div align="center"> <h2> 💬 You can call me …  </h2> </div>
 <div align="center"> 💬 怎么称呼我 </div>
 <br> </br>
-<div align="center"> You can call me ChenXu，and I go by Chenric</div>
+<div align="center"> You can call me Mornie </div>
 <div align="center"> 中文叫我晨煦就好 </div>
 <br> </br>
 <!-- <div align="center"> <h2> 😄 Pronouns:  </h2> </div>
