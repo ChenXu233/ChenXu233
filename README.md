@@ -10,8 +10,9 @@
 
 <div align="center"> 💳<b>here is my Github Stats Card: </b></div>
 <div align="center"> 💳这里是我的 Github 状态卡： </div>
-<div align="center"> <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ChenXu233" /> </div>
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ChenXu233&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,4dfcff,c2e9fb,a1c4fd&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenXu233&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,a1c4fd,c2e9fb,4dfcff&theme=graywhite" /> </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div align="center"> 💳<b>here is my BiliBili Stats Card: </b></div>
 <div align="center"> 💳这里是我的B站状态卡： </div>
 <div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=382043394&theme=prussian" /> </div>
