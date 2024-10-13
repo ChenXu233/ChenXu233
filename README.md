@@ -12,6 +12,43 @@
 <div align="center"> 💳这里是我的 Github 状态卡： </div>
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ChenXu233&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,4dfcff,c2e9fb,a1c4fd&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenXu233&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,a1c4fd,c2e9fb,4dfcff&theme=graywhite" /> </div>
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   2 hrs 48 mins       ███████████████████░░░░░░   76.41 % 
+TOML                     51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+nonebot-plugin-summary   2 hrs 36 mins       ██████████████████░░░░░░░   71.14 % 
+nonebot-plugin-safeR18   1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+
+💻 Operating System: 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   17 repos            ███████████████████░░░░░░   77.27 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+
+ Last Updated on 13/10/2024 01:25:08 UTC
 <!--END_SECTION:waka-->
 <div align="center"> 💳<b>here is my BiliBili Stats Card: </b></div>
 <div align="center"> 💳这里是我的B站状态卡： </div>
