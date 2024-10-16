@@ -12,7 +12,7 @@
 <div align="center"> 💳这里是我的 Github 状态卡： </div>
 <div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ChenXu233&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,4dfcff,c2e9fb,a1c4fd&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenXu233&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,a1c4fd,c2e9fb,4dfcff&theme=graywhite" /> </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2038%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,21 +20,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 9 mins        █████████████████████░░░░   85.53 % 
-TOML                     51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   6 hrs 12 mins       ██████████████████████░░░   87.38 % 
+TOML                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  7 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nonebot-plugin-summary   4 hrs 58 mins       █████████████████████░░░░   82.44 % 
-nonebot-plugin-safeR18   1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+nonebot-plugin-summary   5 hrs 35 mins       ████████████████████░░░░░   78.73 % 
+nonebot-plugin-safeR18   1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+hualijiankanrun          27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 💻 Operating System: 
-Windows                  6 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -50,7 +51,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2024 01:20:58 UTC
+ Last Updated on 16/10/2024 01:21:03 UTC
 <!--END_SECTION:waka-->
 <div align="center"> 💳<b>here is my BiliBili Stats Card: </b></div>
 <div align="center"> 💳这里是我的B站状态卡： </div>
