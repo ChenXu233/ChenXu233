@@ -15,9 +15,9 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-72%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175.1%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-176.6%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -50,17 +50,17 @@ Windows                  14 hrs 26 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            █████████████████░░░░░░░░   67.86 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Python                   20 repos            █████████████████░░░░░░░░   68.97 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 12/11/2024 01:19:11 UTC
+ Last Updated on 13/11/2024 01:20:28 UTC
 <!--END_SECTION:waka-->
 </div>
 
