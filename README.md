@@ -15,6 +15,8 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2028%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-185.0%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -23,24 +25,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        35 mins             ███████████████░░░░░░░░░░   61.83 % 
-Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-TOML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  50 mins             ██████████████████████░░░   86.70 % 
-Obsidian                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-C_study                  35 mins             ███████████████░░░░░░░░░░   61.83 % 
-EcustApp                 10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Unknown Project          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-nonebot-plugin-marshoai  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -56,7 +50,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2025 01:23:53 UTC
+ Last Updated on 11/01/2025 01:21:53 UTC
 <!--END_SECTION:waka-->
 </div>
 
