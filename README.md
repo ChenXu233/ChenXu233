@@ -20,9 +20,33 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-413.9%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   6 hrs 31 mins       ██████████████████░░░░░░░   72.09 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+TeX                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+HTML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 3 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+GemAudit                 5 hrs 46 mins       ████████████████░░░░░░░░░   63.82 % 
+decompilation_huali      3 hrs               ████████░░░░░░░░░░░░░░░░░   33.26 % 
+一生一芯                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+
+💻 Operating System: 
+Windows                  9 hrs 3 mins        █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -37,7 +61,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2025 01:41:46 UTC
+ Last Updated on 22/09/2025 01:42:04 UTC
 <!--END_SECTION:waka-->
 </div>
 
