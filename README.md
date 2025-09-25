@@ -20,9 +20,35 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-494%20hrs%2017%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418.6%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Markdown                 1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+TypeScript               1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Git Config               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+CSS                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 53 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+DefandTherapeutics       2 hrs 51 mins       ████████████░░░░░░░░░░░░░   48.47 % 
+GemAudit                 1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+nonebot_plugin_dialectlis48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+decompilation_huali      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+一生一芯                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+
+💻 Operating System: 
+Windows                  5 hrs 53 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -37,7 +63,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2025 01:26:56 UTC
+ Last Updated on 25/09/2025 01:27:43 UTC
 <!--END_SECTION:waka-->
 </div>
 
