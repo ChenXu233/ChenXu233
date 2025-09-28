@@ -20,35 +20,9 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-503%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-505%20hrs%206%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-431.0%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-CSS                      2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Markdown                 2 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-TypeScript               2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Vue.js                   1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Python                   1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 19 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-DefandTherapeutics       9 hrs 34 mins       ███████████████████░░░░░░   77.69 % 
-GemAudit                 1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-nonebot_plugin_dialectlis48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-ruozhiba                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-一生一芯                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-
-💻 Operating System: 
-Windows                  12 hrs 19 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-433.2%20thousand%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
@@ -63,7 +37,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 01:23:56 UTC
+ Last Updated on 28/09/2025 01:42:42 UTC
 <!--END_SECTION:waka-->
 </div>
 
