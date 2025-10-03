@@ -20,35 +20,7 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2054%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-455.4%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
-Vue.js                   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-HTML                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-CSS                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Markdown                 2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-
-🔥 Editors: 
-VS Code                  22 hrs 34 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-DefandTherapeutics       9 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.93 % 
-GemAudit                 7 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.86 % 
-hualijiankanrun          2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-decompilation_huali      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-ChenXuBlog               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-
-💻 Operating System: 
-Windows                  22 hrs 34 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-456.6%20thousand%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
@@ -63,7 +35,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 01:25:37 UTC
+ Last Updated on 03/10/2025 01:25:11 UTC
 <!--END_SECTION:waka-->
 </div>
 
