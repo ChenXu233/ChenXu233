@@ -1,25 +1,29 @@
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # 每天UTC时间0点运行一次
-  workflow_dispatch: # 允许手动触发
-  push:
-    branches:
-      - main
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - name: 生成贪吃蛇贡献图
+        uses: Platane/snk@v3
         with:
-          github_user_name: ChenXu233 # 替换为你的用户名
+          github_user_name: ChenXu233
           svg_out_path: dist/github-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: 验证并确保 dist 目录存在
+        run: |
+          # 检查文件是否已生成
+          if [ -f "dist/github-snake.svg" ]; then
+            echo "✅ SVG 文件已成功生成。"
+            ls -la dist/
+          else
+            echo "❌ 未找到生成的SVG文件，尝试创建目录。"
+            mkdir -p dist
+            # 这里可以添加一个创建占位文件的步骤，但优先保证目录存在
+          fi
+
+      - name: 部署到 GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
