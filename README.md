@@ -7,10 +7,14 @@
 ## 📈 我的数据看板
 
   
-<!-- 贪吃蛇游戏化贡献图 -->
-![ChenXu233的贡献图](https://raw.githubusercontent.com/ChenXu233/output/snake/github-snake-dark.svg#gh-dark-mode-only)
-![ChenXu233的贡献图](https://raw.githubusercontent.com/ChenXu233/output/snake/github-snake.svg#gh-light-mode-only)
-<!-- 统计卡片与奖杯墙 -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChenXu233/output/snake/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChenXu233/output/snake/github-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ChenXu233/output/snake/github-snake.svg" />
+  </picture>
+</p>
+
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
