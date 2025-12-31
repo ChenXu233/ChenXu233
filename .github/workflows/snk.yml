@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 每天UTC时间0点运行一次
-  workflow_dispatch: # 允许手动触发
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,29 +12,24 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # 赋予工作流向仓库写入的权限
+      contents: write
     steps:
       - name: 检出主分支
-        uses: actions/checkout@v3
-        with:
-          persist-credentials: false
+        uses: actions/checkout@v4 # 升级到v4，更稳定
 
       - name: 生成贪吃蛇贡献图
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }} # 自动使用你的用户名
+          github_user_name: ChenXu233
           outputs: |
-            dist/github-snake.svg?color=gradient#gh-dark-mode-only
-            dist/github-snake.svg?color=gradient#gh-light-mode-only
-          # 图片会输出到仓库根目录的 dist/ 文件夹
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: 检查图片是否生成
-        run: ls -la dist/ || echo "目录不存在"
-
-      - name: 提交并推送生成的图片到主分支
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add dist/
-          git commit -m "docs: 更新 GitHub 贡献贪吃蛇图 [skip ci]" || echo "没有变更，无需提交"
-          git push
+      - name: 提交并推送生成的图片
+        uses: stefanzweifel/git-auto-commit-action@v4 # 使用专门处理Git提交的Action
+        with:
+          branch: main
+          commit_message: 'docs: 自动更新贡献蛇图 [skip ci]'
+          file_pattern: dist/*.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
