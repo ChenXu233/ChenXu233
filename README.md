@@ -9,9 +9,9 @@
   
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChenXu233/main/snake/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChenXu233/main/snake/github-snake.svg">
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ChenXu233/output/snake/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChenXu233/main/dist/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChenXu233/main/dist/github-snake.svg">
+    <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/ChenXu233/main/dist/github-snake.svg" />
   </picture>
 </p>
 
