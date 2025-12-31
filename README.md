@@ -1,135 +1,134 @@
-<div align="center"> <h1><b>Hi there is ChenXu233 👋 </b></h1> </div>
-<div align="center"> <b>你好！这里是 ChenXu233 👋 </b></div>
-<br> </br>
+<!-- 个性横幅区 -->
 
-<div align="center"> 📃Welcome to my profile page！ </div>
-<div align="center"> 📃欢迎来到我的档案页！ </div>
-<div align="center"> 📖You can find some information about me below. </div>
-<div align="center"> 📖你可以在下面了解到一些我的信息。 </div>
-<br> </br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA212&multiline=true&width=600&height=100&separator=%3C&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+%E6%99%A8%E7%85%A6+%F0%9F%91%8B;%3CRust+Learner+%7C+Full-Stack+Enthusiast;%3C%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%9B)](https://git.io/typing-svg)
 
-<div align="center"> 💳<b>here is my Github Stats Card: </b></div>
-<div align="center"> 💳这里是我的 Github 状态卡： </div>
-<div align="center"> <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ChenXu233&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,4dfcff,c2e9fb,a1c4fd&theme=graywhite" /> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenXu233&hide_title=false&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,a1c4fd,c2e9fb,4dfcff&theme=graywhite" /> </div>
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
-</div>
 
-<div align="center">
- 
+<!-- 核心数据看板 -->
+## 📈 我的数据看板
+
+  
+<!-- 贪吃蛇游戏化贡献图 -->
+![ChenXu233的贡献图](https://raw.githubusercontent.com/ChenXu233/output/snake/github-snake-dark.svg#gh-dark-mode-only)
+![ChenXu233的贡献图](https://raw.githubusercontent.com/ChenXu233/output/snake/github-snake.svg#gh-light-mode-only)
+<!-- 统计卡片与奖杯墙 -->
+[![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
+
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%205%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-661.2%20thousand%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 7 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
-Vue.js                   6 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.11 % 
-Dart                     4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-TypeScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 2 mins       █████████████████████████   99.16 % 
-Obsidian                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-
-🐱‍💻 Projects: 
-FullStack-Voyage         12 hrs 48 mins      █████████████████░░░░░░░░   66.72 % 
-ToDoTimeSquare           6 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.44 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-
-💻 Operating System: 
-Windows                  19 hrs 12 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   22 repos            ███████████████░░░░░░░░░░   61.11 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-```
-
-
-
-
- Last Updated on 31/12/2025 01:50:10 UTC
+![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%205%20mins-blue) 
+![Lines](https://img.shields.io/badge/661.2k%20lines-blue)
 <!--END_SECTION:waka-->
+
+<!-- 项目亮点区 -->
+## 🚀 重点项目
+
+<table>
+  <tr>
+    <!-- 第一列：YaoXiang 编程语言 -->
+    <td width="33.3%">
+      <h3 align="center">YaoXiang</h3>
+      <div align="center">
+        <!-- <a href="https://github.com/ChenXu233/YaoXiang" target="_blank">
+          <img src="https://via.placeholder.com/300x150/0d1117/4dfcff?text=YaoXiang+Lang" width="300" height="150" alt="YaoXiang 项目预览"/>
+        </a> -->
+        <h1 align="center">🔧</h1>
+        <p>
+          <img src="https://img.shields.io/badge/-编译器-00599C?logo=c%2B%2B&logoColor=white" alt="编译器">
+          <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust">
+          <img src="https://img.shields.io/badge/-积极开发中-4FC08D" alt="状态">
+        </p>
+        <p>一个致力于简洁、高效与表达力的实验性编程语言。</p>
+      </div>
+    </td>
+    <!-- 第二列：个人博客系统 -->
+    <td width="33.3%">
+      <h3 align="center">个人博客</h3>
+      <div align="center">
+        <!-- <a href="替换为你的博客项目仓库链接" target="_blank">
+          <img src="https://via.placeholder.com/300x150/0d1117/c2e9fb?text=Blog+System" width="300" height="150" alt="博客项目预览"/>
+        </a> -->
+        <h1 align="center">🏠</h1>
+        <p>
+          <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white" alt="Vue">
+          <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust">
+          <img src="https://img.shields.io/badge/-构建中-FF6B6B" alt="状态">
+        </p>
+        <p>使用现代 Web 技术栈构建的个人知识库与写作平台。</p>
+      </div>
+    </td>
+    <!-- 第三列：Memexia AI 项目 -->
+    <td width="33.3%">
+      <h3 align="center">Memexia</h3>
+      <div align="center">
+        <!-- <a href="替换为你的Memexia项目仓库链接" target="_blank">
+          <img src="https://via.placeholder.com/300x150/0d1117/a1c4fd?text=Memexia+AI" width="300" height="150" alt="Memexia 项目预览"/>
+        </a> -->   
+        <h1 align="center">🧠</h1>
+        <p>
+          <img src="https://img.shields.io/badge/-AI/ML-FF6F00?logo=pytorch&logoColor=white" alt="AI/ML">
+          <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
+          <img src="https://img.shields.io/badge/-构思/开发中-F7DF1E" alt="状态">
+        </p>
+        <p>一个探索智能知识管理与辅助思考的 AI 驱动项目。</p>
+      </div>
+    </td>
+  </tr>
+</table>
+<!-- 学习与兴趣区域（保持不变） -->
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">🌱 持续学习与探索</h3>
+      <div align="center">
+        <p><strong>🧠 当前聚焦</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" alt="Rust">
+          <img src="https://img.shields.io/badge/-编译器设计-00599C" alt="编译器">
+          <img src="https://img.shields.io/badge/-系统编程-red" alt="系统编程">
+          <img src="https://img.shields.io/badge/-机器学习-FF6F00" alt="机器学习">
+        </p>
+        <br>
+        <p><strong>💡 兴趣领域</strong></p>
+        <p>编程语言设计 · 全栈开发 · AI工程化 · Minecraft 模组开发</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<!-- 技术栈与工具 -->
+## 🛠️ 技术栈与工具
+  
+**编程语言**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**前端技术**  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+**开发与工具**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-6d53e7?logo=anthropic&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white)
 </div>
 
-<div align="center"> 💳<b>here is my BiliBili Stats Card: </b></div>
-<div align="center"> 💳这里是我的B站状态卡： </div>
-<div align="center"> <img src="https://stats.justsong.cn/api/bilibili/?id=382043394&theme=prussian" /> </div>
-<br> </br>
+## 📫 联系与社交
+  
+<!-- 使用带图标的按钮式链接 -->
+<a href="mailto:Woyerpa@outlook.com">
+  <img src="https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white" alt="邮箱" />
+</a>
+<a href="https://space.bilibili.com/382043394/">
+  <img src="https://img.shields.io/badge/-BiliBili-FB7299?logo=bilibili&logoColor=white" alt="B站" />
+</a>
+<a href="https://github.com/ChenXu233">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<div align="center"> <h2> 🔭 What I’m currently working on  </h2> </div>
-<div align="center"> 🔭 我最近在做什么 </div>
-<br> </br>
-<div align="center"> building my own blog website and transplant “The poetry of winter” to java</div>
-<div align="center"> 建造一个我自己的博客网站，移植“冬之纪行诗”到 java 我的世界平台 </s> </div>
-<br> </br>
-
-<div align="center"> <h2> 🌱 What I’m currently learning </h2> </div>
-<div align="center"> 🌱 我最近在学些什么 </div>
-<br> </br>
-<div align="center"> How to master Python better and how to build mods for Minecraft in Java </div>
-<div align="center"> 如何更好的掌握 Python，以及如何用 java 为 Minecraft 制作模组 </div>
-<br> </br>
-<div align="center"> <h2> 💬 You can call me …  </h2> </div>
-<div align="center"> 💬 怎么称呼我 </div>
-<br> </br>
-<div align="center"> You can call me Mornie </div>
-<div align="center"> 中文叫我晨煦就好 </div>
-<br> </br>
-<!-- <div align="center"> <h2> 😄 Pronouns:  </h2> </div>
-<div align="center"> 😄 代词 </div>
-<br> </br>
-<div align="center"> they/them </div>
-<div align="center"> 中文中可以使用：ta </div>
-<div align="center"> （注：中文由于没有多性别指向的词，但有 "ta" 这种网络语言用于指代性别未知的人） </div>
-<div align="center"> after a lifetime of being at war with my gender l've decided to embrace myself for who l am, inside and out... --Sam Smith </div>
-<div align="center"> 在与自己的性别斗争了一辈子之后，我决定从内到外地接受真实的自己。 --Sam Smith </div>
-<br> </br> -->
-
-<div align="center"> <h2> 📫 How to reach me:  </h2> </div>
-<div align="center"> 📫 如何联系我： </div>
-<br> </br>
-<div align="center"> Mail 1：Woyerpa@outlook.com </div>
-<div align="center"> Mail 2：Chen_OvO@outlook.com </div>
-<div align="center"> BiliBili：<a href="https://space.bilibili.com/382043394/">沐浴晨煦</a> </div>
-<br> </br>
-
-<div align="center"> <h2> ⚡ Fun fact:  </h2> </div>
-<div align="center"> ⚡ 有趣的事实: </div>
-<br> </br>
-<div align="center"> I never eat chili，but I like chilichili </div>
-<div align="center"> ？这怎么用中文和你解释（ </div>
-<!--
-**ChenXu233/ChenXu233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<div align="center"> <h2> ⚡ Fun fact:  </h2> </div>
-<div align="center"> ⚡ 有趣的事实: </div>
-<br> </br>
-<div align="center">  </div>
--->
+<h3>Visitor Count：</h3>
+<img src="https://count.getloli.com/@ChenXu233?name=ChenXu233&theme=booru-lewd&padding=7&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto" alt="If you are unable to see this, please refresh the page.">
