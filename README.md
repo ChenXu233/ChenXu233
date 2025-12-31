@@ -1,7 +1,6 @@
 <!-- 个性横幅区 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA212&multiline=true&width=600&height=100&separator=%3C&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+%E6%99%A8%E7%85%A6+%F0%9F%91%8B;%3CRust+Learner+%7C+Full-Stack+Enthusiast;%3C%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%9B)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFA212&multiline=true&width=600&height=120&separator=%3C&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+%E6%99%A8%E7%85%A6+%F0%9F%91%8B;%3CRust+Learner+%7C+Full-Stack+Enthusiast;%3C%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF%EF%BC%9B)](https://git.io/typing-svg)
 
 <!-- 核心数据看板 -->
 ## 📈 我的数据看板
