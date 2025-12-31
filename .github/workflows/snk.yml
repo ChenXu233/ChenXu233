@@ -11,31 +11,30 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 赋予工作流向仓库写入的权限
     steps:
-      - uses: actions/checkout@v3
+      - name: 检出主分支
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
 
       - name: 生成贪吃蛇贡献图
         uses: Platane/snk@v3
         with:
-          github_user_name: ChenXu233
-          svg_out_path: dist/github-snake.svg
+          github_user_name: ${{ github.repository_owner }} # 自动使用你的用户名
+          outputs: |
+            dist/github-snake.svg?color=gradient#gh-dark-mode-only
+            dist/github-snake.svg?color=gradient#gh-light-mode-only
+          # 图片会输出到仓库根目录的 dist/ 文件夹
 
-      - name: 验证并确保 dist 目录存在
+      - name: 检查图片是否生成
+        run: ls -la dist/ || echo "目录不存在"
+
+      - name: 提交并推送生成的图片到主分支
         run: |
-          # 检查文件是否已生成
-          if [ -f "dist/github-snake.svg" ]; then
-            echo "✅ SVG 文件已成功生成。"
-            ls -la dist/
-          else
-            echo "❌ 未找到生成的SVG文件，尝试创建目录。"
-            mkdir -p dist
-            # 这里可以添加一个创建占位文件的步骤，但优先保证目录存在
-          fi
-
-      - name: 部署到 GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/
+          git commit -m "docs: 更新 GitHub 贡献贪吃蛇图 [skip ci]" || echo "没有变更，无需提交"
+          git push
