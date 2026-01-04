@@ -17,9 +17,7 @@
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2059%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-777.00%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794.55%20thousand%20lines%20of%20code-blue)
 
 **I Mostly Code in Python** 
 
@@ -34,7 +32,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 01:45:35 UTC
+ Last Updated on 04/01/2026 02:00:28 UTC
 <!--END_SECTION:waka-->
 
 <!-- 项目亮点区 -->
