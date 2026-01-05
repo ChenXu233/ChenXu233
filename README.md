@@ -17,7 +17,36 @@
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794.55%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-716%20hrs%2046%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-894.16%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 16 hrs 33 mins      ███████████░░░░░░░░░░░░░░   43.48 % 
+Rust                     9 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+Dart                     6 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Other                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Vue.js                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+
+🔥 Editors: 
+VS Code                  37 hrs 12 mins      ████████████████████████░   97.72 % 
+Obsidian                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+
+🐱‍💻 Projects: 
+YaoXiang                 21 hrs 17 mins      ██████████████░░░░░░░░░░░   55.90 % 
+ToDoTimeSquare           9 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+FullStack-Voyage         3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Memexia                  2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Unknown Project          52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+
+💻 Operating System: 
+Windows                  38 hrs 4 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
@@ -32,7 +61,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:00:28 UTC
+ Last Updated on 05/01/2026 02:00:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- 项目亮点区 -->
