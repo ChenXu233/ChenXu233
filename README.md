@@ -17,9 +17,9 @@
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%2018%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.80%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.39%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,20 +27,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 hrs 45 mins      █████████████░░░░░░░░░░░░   51.77 % 
-Rust                     7 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-JavaScript               3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Other                    1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-TOML                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Markdown                 14 hrs 57 mins      ███████████████░░░░░░░░░░   60.50 % 
+Rust                     5 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Other                    2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Inno Setup               16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 26 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 30 hrs 26 mins      █████████████████████████   100.00 % 
+YaoXiang                 24 hrs 42 mins      █████████████████████████   99.91 % 
+ToDoTimeSquare           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  30 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -56,7 +57,7 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 02:14:30 UTC
+ Last Updated on 23/02/2026 02:25:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- 项目亮点区 -->
