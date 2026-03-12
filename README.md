@@ -17,9 +17,9 @@
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-935%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2035%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.44%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.66%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,41 +27,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
-HTML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Markdown                 1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Rust                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Markdown                 3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Python                   2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Vue.js                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+HTML                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Rust                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 16 mins       █████████████████████████   98.12 % 
-Visual Studio            10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+VS Code                  13 hrs 50 mins      ███████████████████████░░   92.77 % 
+Visual Studio            1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Solvify                  4 hrs 49 mins       █████████████░░░░░░░░░░░░   50.99 % 
-YaoXiang                 3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   32.30 % 
-宣传海报                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-gulinfujiabieshu         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+GemAudit                 5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.08 % 
+YaoXiang                 3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Reverie                  2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+宣传海报                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+gulinfujiabieshu         1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 💻 Operating System: 
-Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   23 repos            ██████████████░░░░░░░░░░░   57.50 % 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   23 repos            ██████████████░░░░░░░░░░░   56.10 % 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 08/03/2026 02:15:11 UTC
+ Last Updated on 12/03/2026 02:14:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- 项目亮点区 -->
