@@ -17,9 +17,9 @@
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C019%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%209%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.25%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.29%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,41 +27,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   9 hrs 53 mins       █████████████░░░░░░░░░░░░   50.29 % 
-Other                    2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Python                   2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-HTML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Vue                      2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   43.11 % 
+Other                    1 hr                ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Python                   40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+TypeScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Java                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 19 mins      █████████████████████████   98.28 % 
-Visual Studio            20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Unknown Editor           3 hrs 52 mins       ███████████████░░░░░░░░░░   58.65 % 
+VS Code                  2 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.35 % 
 
 🐱‍💻 Projects: 
-ChenXuBlog               11 hrs 28 mins      ███████████████░░░░░░░░░░   58.36 % 
-随手拍                      2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-GemAudit                 2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-知识库                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-InvoiceDetection         46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+photograpg               4 hrs 47 mins       ██████████████████░░░░░░░   72.67 % 
+实验                       34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+gis-marker               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Kiyomeru                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+QwenOCRServer            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-Windows                  19 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
 Python                   21 repos            █████████████░░░░░░░░░░░░   52.50 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 12/04/2026 02:45:18 UTC
+ Last Updated on 06/05/2026 02:58:47 UTC
 <!--END_SECTION:waka-->
 
 <!-- 项目亮点区 -->
