@@ -17,7 +17,9 @@
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.87%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2059%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,42 +27,42 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   16 hrs 27 mins      ███████████░░░░░░░░░░░░░░   42.07 % 
-Markdown                 5 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Rust                     4 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Vue                      3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-C#                       1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Markdown                 13 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.53 % 
+Python                   12 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   34.49 % 
+C#                       2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Other                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+Rust                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 56 mins      ████████████████░░░░░░░░░   63.79 % 
-Claude Code              13 hrs 53 mins      █████████░░░░░░░░░░░░░░░░   35.51 % 
-Visual Studio            16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+VS Code                  28 hrs 18 mins      ███████████████████░░░░░░   77.06 % 
+Claude Code              8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+Visual Studio            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-QwenOCRServer            19 hrs              ████████████░░░░░░░░░░░░░   48.60 % 
-cli-plugin-webui         7 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-YaoXiang                 5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-PICOMR                   2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Reverie                  2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Reverie                  21 hrs 3 mins       ██████████████░░░░░░░░░░░   57.34 % 
+FinanceAIPreAudit        4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+QwenOCRServer            3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+PICOMR                   2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+YaoXiang                 2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
 
 💻 Operating System: 
-Windows                  39 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  36 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            █████████████░░░░░░░░░░░░   52.38 % 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Python                   24 repos            █████████████░░░░░░░░░░░░   53.33 % 
+Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 03:49:57 UTC
+ Last Updated on 28/05/2026 03:45:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- 项目亮点区 -->
