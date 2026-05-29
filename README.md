@@ -17,37 +17,7 @@
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2059%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 13 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.53 % 
-Python                   12 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   34.49 % 
-C#                       2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Other                    2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Rust                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-
-🔥 Editors: 
-VS Code                  28 hrs 18 mins      ███████████████████░░░░░░   77.06 % 
-Claude Code              8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-Visual Studio            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-
-🐱‍💻 Projects: 
-Reverie                  21 hrs 3 mins       ██████████████░░░░░░░░░░░   57.34 % 
-FinanceAIPreAudit        4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-QwenOCRServer            3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-PICOMR                   2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-YaoXiang                 2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-
-💻 Operating System: 
-Windows                  36 hrs 43 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.06%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Python** 
 
@@ -62,7 +32,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 03:45:22 UTC
+ Last Updated on 29/05/2026 03:46:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- 项目亮点区 -->
