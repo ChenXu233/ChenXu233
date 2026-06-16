@@ -17,22 +17,52 @@
 [![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.06%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2032%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.27%20million%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 18 hrs 4 mins       ████████░░░░░░░░░░░░░░░░░   33.74 % 
+Rust                     17 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   32.47 % 
+Python                   5 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Other                    2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Dart                     1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+
+🔥 Editors: 
+VS Code                  31 hrs 54 mins      ███████████████░░░░░░░░░░   59.56 % 
+Claude Code              21 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.43 % 
+Code                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🐱‍💻 Projects: 
+YaoXiang                 33 hrs 53 mins      ████████████████░░░░░░░░░   63.26 % 
+Reverie                  7 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+TongHai-frontend         2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+MultiView                2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+neuralswarm-code         2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+
+💻 Operating System: 
+Windows                  53 hrs 34 mins      █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   24 repos            █████████████░░░░░░░░░░░░   53.33 % 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Python                   24 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 03:46:11 UTC
+ Last Updated on 16/06/2026 04:21:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- 项目亮点区 -->
