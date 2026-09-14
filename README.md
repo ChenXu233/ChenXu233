@@ -14,8 +14,6 @@
   </picture>
 </p>
 
-[![ChenXu233's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenXu233&theme=xcode&hide_border=true)](https://github.com/ChenXu233)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C359%20hrs%2032%20mins-blue?style=flat)
 
