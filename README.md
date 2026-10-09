@@ -15,11 +15,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C601%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2024%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-681%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-860%20hrs%2040%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.87%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,66 +27,64 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Markdown                 7 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Other                    7 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Text                     5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Image (png)              3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Markdown                 12 hrs 40 mins      ███████████░░░░░░░░░░░░░░   42.69 % 
+Rust                     11 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   40.01 % 
+Other                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-VS Code                  48 hrs 9 mins       █████████████████████████   100.00 % 
+ZCode                    25 hrs 3 mins       █████████████████████░░░░   84.46 % 
+VS Code                  4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 
 🐱‍💻 Projects: 
-Luonnotar                25 hrs 1 min        █████████████░░░░░░░░░░░░   51.95 % 
-LaboratorySite           5 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-YaoXiang                 4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-ChenXu233                4 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-MiaoMoryQwQ              3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+YaoXiang                 28 hrs 42 mins      ████████████████████████░   96.77 % 
+FullStack-Voyage         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+AI4gemProduct            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  48 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  29 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 hrs 27 mins (96.45%)
+⏱ AI Coding Time: 27 hrs 59 mins (94.34%)
 
-✍️ 17,666 lines written by AI, 293 lines written by hand (98.37% AI-written)
+✍️ 8,798 lines written by AI, 259 lines written by hand (97.14% AI-written)
 
-🔤 1,426,865,722 Input Tokens, 7,937,893 Output Tokens
+🔤 15,402,020 Input Tokens, 1,960,909 Output Tokens
 
-💵 $9493.74 Estimated AI Cost This Week
+💵 $1355.16 Estimated AI Cost This Week
 
-🧠 123 AI Sessions, 546 AI Prompts
+🧠 33 AI Sessions, 126 AI Prompts
 
-Kimi                     11,043 lines        █████████████████████░░░░   84.48 % 
-Deepseek                 1,866 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-M                        104 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-DeepSeek                 59 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-ZCode                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+ZCode                    8,798 lines         █████████████████████████   99.04 % 
+DeepSeek                 85 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.37% of written lines came from AI
-📝 Concise Prompter — average 426 characters per prompt
+🤖 AI-Driven — 97.14% of written lines came from AI
+📝 Concise Prompter — average 126 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.72% of changed lines were hand-edited
+🚀 High AI Trust — 4.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            ████████████░░░░░░░░░░░░░   46.03 % 
-Vue                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Go                       3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   33 repos            ████████████░░░░░░░░░░░░░   47.14 % 
+Vue                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 14/09/2026 08:46:11 UTC
+ Last Updated on 09/10/2026 08:43:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
