@@ -34,3 +34,23 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
+
+      # waka-readme-stats 在 git push 被拒时只打印错误、退出码仍是 0（job 会“假绿”），
+      # 所以这里重新 clone 一次 main 做真校验：README 里必须是今天（跨零点时也接受昨天）的日期。
+      - name: 校验 README 是否真的被更新
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          TODAY="$(date -u +%d/%m/%Y)"
+          YESTERDAY="$(date -u -d yesterday +%d/%m/%Y)"
+          git clone --quiet --depth 1 "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" verify
+          if grep -qE "Last Updated on (${TODAY}|${YESTERDAY}) " verify/README.md; then
+            echo "✅ README 已更新：$(grep -m1 -oE 'Last Updated on .*' verify/README.md)"
+          else
+            echo "::error::README 没有被更新 —— action 里的 git push 多半被拒绝了（non-fast-forward 或权限问题）"
+            echo "README 里当前写的是：$(grep -m1 -oE 'Last Updated on .*' verify/README.md || echo '找不到 Last Updated 行')"
+            echo "main 上最后一次提交是："
+            git -C verify log -1 --format='  %h %cI %an: %s'
+            exit 1
+          fi
