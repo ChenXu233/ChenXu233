@@ -8,6 +8,11 @@ on:
     branches:
       - main
 
+# 与 blank.yml(Waka Readme) 共用同一个并发组，避免两个 workflow 同时往 main 提交
+concurrency:
+  group: profile-readme-writer
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest

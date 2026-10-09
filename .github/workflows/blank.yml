@@ -5,6 +5,13 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
+# 与 snk.yml(贪吃蛇) 共用同一个并发组：两个 workflow 都往 main 推送，
+# 串行执行后先跑的那个先推完，后跑的 clone 到的就是最新 main，不会再 non-fast-forward 被拒。
+# （waka 的 push 失败会被 action 吞掉、job 依然显示绿色，所以必须从源头串行化。）
+concurrency:
+  group: profile-readme-writer
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
