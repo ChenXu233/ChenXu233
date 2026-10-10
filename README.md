@@ -15,11 +15,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C775%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-860%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-865%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.91%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,64 +27,64 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 40 mins      ███████████░░░░░░░░░░░░░░   42.69 % 
-Rust                     11 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   40.01 % 
-Other                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Text                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Markdown                 14 hrs 33 mins      ████████████░░░░░░░░░░░░░   49.90 % 
+Rust                     8 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+Other                    2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+YAML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Python                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 🔥 Editors: 
-ZCode                    25 hrs 3 mins       █████████████████████░░░░   84.46 % 
-VS Code                  4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+ZCode                    23 hrs 35 mins      ████████████████████░░░░░   80.88 % 
+VS Code                  5 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 28 hrs 42 mins      ████████████████████████░   96.77 % 
-FullStack-Voyage         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-AI4gemProduct            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+YaoXiang                 28 hrs 6 mins       ████████████████████████░   96.33 % 
+FullStack-Voyage         51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+AI4gemProduct            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Windows                  29 hrs 40 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 59 mins (94.34%)
+⏱ AI Coding Time: 27 hrs 5 mins (92.85%)
 
-✍️ 8,798 lines written by AI, 259 lines written by hand (97.14% AI-written)
+✍️ 7,012 lines written by AI, 300 lines written by hand (95.9% AI-written)
 
-🔤 15,402,020 Input Tokens, 1,960,909 Output Tokens
+🔤 16,196,803 Input Tokens, 1,775,478 Output Tokens
 
-💵 $1355.16 Estimated AI Cost This Week
+💵 $1309.33 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 126 AI Prompts
+🧠 30 AI Sessions, 129 AI Prompts
 
-ZCode                    8,798 lines         █████████████████████████   99.04 % 
-DeepSeek                 85 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+ZCode                    7,099 lines         █████████████████████████   98.82 % 
+DeepSeek                 85 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.14% of written lines came from AI
-📝 Concise Prompter — average 126 characters per prompt
+🤖 AI-Driven — 95.9% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 4.74% of changed lines were hand-edited
+🚀 High AI Trust — 6.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            ████████████░░░░░░░░░░░░░   47.14 % 
-Vue                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   33 repos            ████████████░░░░░░░░░░░░░   46.48 % 
+Vue                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 
 
 
- Last Updated on 09/10/2026 08:52:49 UTC
+ Last Updated on 10/10/2026 04:49:54 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
