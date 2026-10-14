@@ -15,11 +15,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C778%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C779%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-868%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.87%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.88%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,47 +27,46 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 57 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
-Rust                     5 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.34 % 
-Other                    2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-YAML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Text                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Markdown                 7 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
+Rust                     4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+YAML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
 
 🔥 Editors: 
-ZCode                    14 hrs 20 mins      ███████████████████░░░░░░   77.47 % 
-VS Code                  4 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+ZCode                    13 hrs 7 mins       ██████████████████░░░░░░░   73.82 % 
+VS Code                  4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 18 hrs 21 mins      █████████████████████████   99.11 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+YaoXiang                 17 hrs 37 mins      █████████████████████████   99.07 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 DefandTherapeutics       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  18 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 21 mins (88.37%)
+⏱ AI Coding Time: 14 hrs 55 mins (83.92%)
 
-✍️ 4,032 lines written by AI, 312 lines written by hand (92.82% AI-written)
+✍️ 2,707 lines written by AI, 352 lines written by hand (88.49% AI-written)
 
-🔤 11,089,748 Input Tokens, 898,460 Output Tokens
+🔤 10,496,345 Input Tokens, 793,456 Output Tokens
 
-💵 $792.58 Estimated AI Cost This Week
+💵 $596.54 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 76 AI Prompts
+🧠 11 AI Sessions, 71 AI Prompts
 
-ZCode                    4,130 lines         ████████████████████████░   97.98 % 
-DeepSeek                 85 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+ZCode                    2,707 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.82% of written lines came from AI
+🤖 AI-Driven — 88.49% of written lines came from AI
 📝 Concise Prompter — average 38 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 12.29% of changed lines were hand-edited
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 18.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +82,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 05:57:22 UTC
+ Last Updated on 14/10/2026 03:59:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
