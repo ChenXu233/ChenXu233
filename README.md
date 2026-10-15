@@ -27,62 +27,62 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
-Rust                     4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
-Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-YAML                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Markdown                 5 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
+Rust                     3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+YAML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-ZCode                    13 hrs 7 mins       ██████████████████░░░░░░░   73.82 % 
-VS Code                  4 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+ZCode                    8 hrs 26 mins       ████████████████░░░░░░░░░   64.60 % 
+VS Code                  4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 17 hrs 37 mins      █████████████████████████   99.07 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-DefandTherapeutics       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+YaoXiang                 12 hrs 53 mins      █████████████████████████   98.74 % 
+Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+DefandTherapeutics       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  17 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 55 mins (83.92%)
+⏱ AI Coding Time: 10 hrs 12 mins (78.12%)
 
-✍️ 2,707 lines written by AI, 352 lines written by hand (88.49% AI-written)
+✍️ 1,878 lines written by AI, 351 lines written by hand (84.25% AI-written)
 
-🔤 10,496,345 Input Tokens, 793,456 Output Tokens
+🔤 4,385,294 Input Tokens, 516,951 Output Tokens
 
-💵 $596.54 Estimated AI Cost This Week
+💵 $424.88 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 71 AI Prompts
+🧠 7 AI Sessions, 49 AI Prompts
 
-ZCode                    2,707 lines         █████████████████████████   100.00 % 
+ZCode                    1,878 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.49% of written lines came from AI
-📝 Concise Prompter — average 38 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 18.51% of changed lines were hand-edited
+🤖 AI-Driven — 84.25% of written lines came from AI
+📝 Concise Prompter — average 26 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 24.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            ████████████░░░░░░░░░░░░░   46.48 % 
-Vue                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Python                   33 repos            ███████████░░░░░░░░░░░░░░   45.83 % 
+Vue                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on 14/10/2026 03:59:44 UTC
+ Last Updated on 15/10/2026 03:41:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
