@@ -15,7 +15,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C779%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C779%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-868%20hrs%2015%20mins-blue?style=flat)
 
@@ -27,46 +27,47 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.57 % 
-Rust                     3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-YAML                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Other                    1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-Python                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Markdown                 4 hrs 49 mins       █████████████░░░░░░░░░░░░   52.63 % 
+Rust                     1 hr 55 mins        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+YAML                     1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Other                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-ZCode                    8 hrs 26 mins       ████████████████░░░░░░░░░   64.60 % 
-VS Code                  4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
+ZCode                    6 hrs 18 mins       █████████████████░░░░░░░░   68.87 % 
+VS Code                  2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 12 hrs 53 mins      █████████████████████████   98.74 % 
-Unknown Project          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-DefandTherapeutics       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+YaoXiang                 8 hrs 59 mins       █████████████████████████   98.24 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+DefandTherapeutics       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-Windows                  13 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 12 mins (78.12%)
+⏱ AI Coding Time: 7 hrs 34 mins (82.71%)
 
-✍️ 1,878 lines written by AI, 351 lines written by hand (84.25% AI-written)
+✍️ 1,075 lines written by AI, 120 lines written by hand (89.96% AI-written)
 
-🔤 4,385,294 Input Tokens, 516,951 Output Tokens
+🔤 3,581,319 Input Tokens, 363,863 Output Tokens
 
-💵 $424.88 Estimated AI Cost This Week
+💵 $290.38 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 49 AI Prompts
+🧠 5 AI Sessions, 40 AI Prompts
 
-ZCode                    1,878 lines         █████████████████████████   100.00 % 
+ZCode                    1,075 lines         █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.25% of written lines came from AI
-📝 Concise Prompter — average 26 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 24.67% of changed lines were hand-edited
+🤖 AI-Driven — 89.96% of written lines came from AI
+📝 Concise Prompter — average 24 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 17.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +83,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 03:41:15 UTC
+ Last Updated on 16/10/2026 03:37:12 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
