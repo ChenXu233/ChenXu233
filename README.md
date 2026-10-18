@@ -19,7 +19,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-868%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.89%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,63 +27,59 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 58 mins        ██████████░░░░░░░░░░░░░░░   41.04 % 
-YAML                     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Rust                     1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-Vue                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+YAML                     1 hr 15 mins        ████████████████░░░░░░░░░   64.63 % 
+Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Rust                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-ZCode                    2 hrs 46 mins       ██████████████░░░░░░░░░░░   57.59 % 
-VS Code                  2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   42.41 % 
+VS Code                  1 hr 36 mins        █████████████████████░░░░   83.27 % 
+ZCode                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 4 hrs 45 mins       █████████████████████████   99.00 % 
-DefandTherapeutics       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+YaoXiang                 1 hr 55 mins        █████████████████████████   99.25 % 
+融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 10 mins (66.01%)
+⏱ AI Coding Time: 20 mins (17.96%)
 
-✍️ 487 lines written by AI, 97 lines written by hand (83.39% AI-written)
+✍️ 0 lines written by AI, 96 lines written by hand (0.0% AI-written)
 
-🔤 1,605,085 Input Tokens, 163,878 Output Tokens
+🔤 126,665 Input Tokens, 24,732 Output Tokens
 
-💵 $133.58 Estimated AI Cost This Week
+💵 $3.22 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 19 AI Prompts
+🧠 1 AI Sessions, 6 AI Prompts
 
-ZCode                    487 lines           █████████████████████████   100.00 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.39% of written lines came from AI
-📝 Concise Prompter — average 17 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 29.83% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 18 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            ███████████░░░░░░░░░░░░░░   45.21 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Python                   33 repos            ███████████░░░░░░░░░░░░░░   44.59 % 
+Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 17/10/2026 03:28:39 UTC
+ Last Updated on 18/10/2026 03:33:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
