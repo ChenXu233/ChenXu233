@@ -15,11 +15,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C780%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C780%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-868%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.89%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.95%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,59 +27,41 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 hr 15 mins        ████████████████░░░░░░░░░   64.63 % 
-Other                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Rust                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+YAML                     1 hr 19 mins        ██████████████████████░░░   87.65 % 
+Markdown                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Rust                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████░░░░   83.27 % 
-ZCode                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 1 hr 55 mins        █████████████████████████   99.25 % 
-融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+YaoXiang                 1 hr 30 mins        █████████████████████████   99.04 % 
+融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (17.96%)
-
-✍️ 0 lines written by AI, 96 lines written by hand (0.0% AI-written)
-
-🔤 126,665 Input Tokens, 24,732 Output Tokens
-
-💵 $3.22 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 6 AI Prompts
-
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 18 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            ███████████░░░░░░░░░░░░░░   44.59 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   33 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
 
 
 
- Last Updated on 18/10/2026 03:33:35 UTC
+ Last Updated on 19/10/2026 03:44:15 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
