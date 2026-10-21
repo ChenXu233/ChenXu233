@@ -19,7 +19,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-868%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.01%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,22 +27,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     1 hr 19 mins        ███████████████████████░░   91.51 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+YAML                     38 mins             █████████████████████░░░░   84.75 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.00 % 
+VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 1 hr 19 mins        ███████████████████████░░   91.95 % 
-ModelGate                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+YaoXiang                 38 mins             █████████████████████░░░░   84.59 % 
+ModelGate                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,7 +64,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 03:55:25 UTC
+ Last Updated on 21/10/2026 03:47:02 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
