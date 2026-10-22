@@ -19,7 +19,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-868%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.01%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.74%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,9 +27,9 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     38 mins             █████████████████████░░░░   84.75 % 
-Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+YAML                     38 mins             █████████████████████░░░░   84.86 % 
+Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
@@ -37,9 +37,9 @@ Rust                     0 secs              ░░░░░░░░░░░�
 VS Code                  45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 38 mins             █████████████████████░░░░   84.59 % 
-ModelGate                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+YaoXiang                 38 mins             █████████████████████░░░░   84.57 % 
+ModelGate                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
 Windows                  45 mins             █████████████████████████   100.00 % 
@@ -64,7 +64,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 03:47:02 UTC
+ Last Updated on 22/10/2026 03:46:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
