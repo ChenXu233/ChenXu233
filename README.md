@@ -27,22 +27,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     38 mins             █████████████████████░░░░   84.86 % 
-Python                   5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+YAML                     31 mins             █████████████████████░░░░   82.58 % 
+Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  45 mins             █████████████████████████   100.00 % 
+VS Code                  38 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 38 mins             █████████████████████░░░░   84.57 % 
-ModelGate                6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-融创空间PPT                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+YaoXiang                 32 mins             █████████████████████░░░░   84.08 % 
+ModelGate                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.00 % 
+Windows                  38 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -64,7 +63,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 03:46:51 UTC
+ Last Updated on 23/10/2026 03:51:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
