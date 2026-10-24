@@ -27,21 +27,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     31 mins             █████████████████████░░░░   82.58 % 
-Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Rust                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Python                   5 mins              █████████████░░░░░░░░░░░░   53.49 % 
+YAML                     4 mins              ███████████░░░░░░░░░░░░░░   43.56 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-YaoXiang                 32 mins             █████████████████████░░░░   84.08 % 
-ModelGate                6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+ModelGate                6 mins              ██████████████░░░░░░░░░░░   55.52 % 
+YaoXiang                 4 mins              ███████████░░░░░░░░░░░░░░   44.48 % 
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -53,17 +53,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   34 repos            ███████████░░░░░░░░░░░░░░   44.74 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Python                   34 repos            ███████████░░░░░░░░░░░░░░   43.59 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 ```
 
 
 
 
- Last Updated on 23/10/2026 03:51:30 UTC
+ Last Updated on 24/10/2026 03:46:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
