@@ -15,11 +15,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C781%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C781%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-869%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-869%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.04%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.10%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,63 +27,63 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 7 mins         ██████████████████░░░░░░░   70.92 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Markdown                 1 hr 12 mins        ████████████████░░░░░░░░░   63.59 % 
+TypeScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+YAML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-ZCode                    53 mins             ██████████████░░░░░░░░░░░   56.03 % 
-VS Code                  42 mins             ███████████░░░░░░░░░░░░░░   43.97 % 
+VS Code                  1 hr                █████████████░░░░░░░░░░░░   53.04 % 
+ZCode                    53 mins             ████████████░░░░░░░░░░░░░   46.96 % 
 
 🐱‍💻 Projects: 
-MathorCup2026            1 hr 14 mins        ███████████████████░░░░░░   77.78 % 
-draft-fe4c7dc3-bacb-4612-8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-ModelGate                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-YaoXiang                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-dsh-workspace-mesh       2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+MathorCup2026            1 hr 22 mins        ██████████████████░░░░░░░   72.52 % 
+dsh-workspace-mesh       17 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+draft-fe4c7dc3-bacb-4612-8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+ModelGate                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (57.74%)
+⏱ AI Coding Time: 1 hr 10 mins (61.46%)
 
-✍️ 211 lines written by AI, 101 lines written by hand (67.63% AI-written)
+✍️ 326 lines written by AI, 83 lines written by hand (79.71% AI-written)
 
-🔤 138,833 Input Tokens, 51,275 Output Tokens
+🔤 256,492 Input Tokens, 79,092 Output Tokens
 
-💵 $8.79 Estimated AI Cost This Week
+💵 $14.49 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 5 AI Sessions, 14 AI Prompts
 
-GLM                      211 lines           █████████████████████████   100.00 % 
+GLM                      326 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.63% of written lines came from AI
-📝 Concise Prompter — average 33 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 34.27% of changed lines were hand-edited
+🤖 AI-Driven — 79.71% of written lines came from AI
+📝 Concise Prompter — average 142 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 34.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            ███████████░░░░░░░░░░░░░░   45.00 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Rust                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   36 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
 
 
- Last Updated on 25/10/2026 03:43:14 UTC
+ Last Updated on 26/10/2026 03:47:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
