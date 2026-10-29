@@ -15,11 +15,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C782%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C783%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-869%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.17%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.21%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,30 +27,31 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 29 mins        █████████████░░░░░░░░░░░░   53.91 % 
-Python                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Markdown                 1 hr 30 mins        █████████████░░░░░░░░░░░░   51.62 % 
+Python                   42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 
 🔥 Editors: 
-VS Code                  1 hr 53 mins        █████████████████░░░░░░░░   67.86 % 
-ZCode                    53 mins             ████████░░░░░░░░░░░░░░░░░   32.14 % 
+VS Code                  2 hrs 1 min         █████████████████░░░░░░░░   69.39 % 
+ZCode                    53 mins             ████████░░░░░░░░░░░░░░░░░   30.61 % 
 
 🐱‍💻 Projects: 
-MathorCup2026            2 hrs 21 mins       █████████████████████░░░░   84.86 % 
-dsh-workspace-mesh       17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-draft-fe4c7dc3-bacb-4612-8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+MathorCup2026            2 hrs 29 mins       █████████████████████░░░░   85.45 % 
+dsh-workspace-mesh       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+draft-fe4c7dc3-bacb-4612-8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+YaoXiang                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (42.07%)
+⏱ AI Coding Time: 1 hr 10 mins (40.06%)
 
 ✍️ 326 lines written by AI, 185 lines written by hand (63.8% AI-written)
 
@@ -66,23 +67,23 @@ GLM                      326 lines           ███████████�
 ⚖️ Balanced with AI — 63.8% of written lines came from AI
 📝 Concise Prompter — average 142 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 48.34% of changed lines were hand-edited
+🚀 High AI Trust — 48.66% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   36 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Python                   36 repos            ███████████░░░░░░░░░░░░░░   43.90 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JavaScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Java                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
 
 
- Last Updated on 28/10/2026 04:36:53 UTC
+ Last Updated on 29/10/2026 04:54:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
