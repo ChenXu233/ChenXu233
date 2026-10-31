@@ -15,11 +15,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C783%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C783%20hrs%2037%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-869%20hrs%2025%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.32%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.07%20million%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,33 +27,33 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 33 mins        █████████████░░░░░░░░░░░░   51.56 % 
-Python                   43 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Markdown                 2 hrs               ██████████████░░░░░░░░░░░   57.65 % 
+Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+YAML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+TypeScript               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        ██████████████████░░░░░░░   70.43 % 
-ZCode                    53 mins             ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+VS Code                  2 hrs 34 mins       ███████████████████░░░░░░   74.28 % 
+ZCode                    53 mins             ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
 
 🐱‍💻 Projects: 
-MathorCup2026            2 hrs 35 mins       █████████████████████░░░░   85.94 % 
-dsh-workspace-mesh       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-draft-fe4c7dc3-bacb-4612-8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-YaoXiang                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+MathorCup2026            3 hrs 3 mins        ██████████████████████░░░   87.77 % 
+dsh-workspace-mesh       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+draft-fe4c7dc3-bacb-4612-8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+YaoXiang                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  3 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 10 mins (38.71%)
+⏱ AI Coding Time: 1 hr 10 mins (33.66%)
 
-✍️ 326 lines written by AI, 185 lines written by hand (63.8% AI-written)
+✍️ 326 lines written by AI, 222 lines written by hand (59.49% AI-written)
 
 🔤 256,492 Input Tokens, 79,092 Output Tokens
 
@@ -64,10 +64,10 @@ Windows                  3 hrs 1 min         ███████████�
 GLM                      326 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.8% of written lines came from AI
+⚖️ Balanced with AI — 59.49% of written lines came from AI
 📝 Concise Prompter — average 142 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 48.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 53.76% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +83,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 04:55:05 UTC
+ Last Updated on 31/10/2026 04:39:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- 技术栈与工具 -->
